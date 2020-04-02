@@ -1,24 +1,12 @@
 # Changelog
 
-## [v0.2.1](https://github.com/alejandrohdezma/sensitive-strings/tree/v0.2.1) (2019-10-25)
+## [v0.1.1](https://github.com/scala-steward/sensitive-strings/tree/v0.1.1) (2019-10-15)
 
-[Full Changelog](https://github.com/alejandrohdezma/sensitive-strings/compare/v0.2.0...v0.2.1)
+[Full Changelog](https://github.com/scala-steward/sensitive-strings/compare/v0.1.0...v0.1.1)
 
-## [v0.2.0](https://github.com/alejandrohdezma/sensitive-strings/tree/v0.2.0) (2019-10-17)
+## [v0.1.0](https://github.com/scala-steward/sensitive-strings/tree/v0.1.0) (2019-10-15)
 
-[Full Changelog](https://github.com/alejandrohdezma/sensitive-strings/compare/v0.1.1...v0.2.0)
-
-🚀 **Features**
-
-- Allow marking types as sensitives by using regex [\#2](https://github.com/alejandrohdezma/sensitive-strings/pull/2) ([alejandrohdezma](https://github.com/alejandrohdezma))
-
-## [v0.1.1](https://github.com/alejandrohdezma/sensitive-strings/tree/v0.1.1) (2019-10-15)
-
-[Full Changelog](https://github.com/alejandrohdezma/sensitive-strings/compare/v0.1.0...v0.1.1)
-
-## [v0.1.0](https://github.com/alejandrohdezma/sensitive-strings/tree/v0.1.0) (2019-10-15)
-
-[Full Changelog](https://github.com/alejandrohdezma/sensitive-strings/compare/a96417fc8bf76d19db04b840db96abc26fced138...v0.1.0)
+[Full Changelog](https://github.com/scala-steward/sensitive-strings/compare/a96417fc8bf76d19db04b840db96abc26fced138...v0.1.0)
 
 
 
